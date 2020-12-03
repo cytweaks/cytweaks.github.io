@@ -2,8 +2,8 @@
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<url>mailto:?to=&body=I'm enjoying the CYTWEAKS repo! cytweaks.github.io,&subject=Cytweaks</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 		<link>
 			<name>I want this depiction template</name>
