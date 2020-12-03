@@ -1,7 +1,7 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>share the repo</name>
 			<url>mailto:?to=&body=I'm enjoying the CYTWEAKS repo! cytweaks.github.io,&subject=Cytweaks</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
